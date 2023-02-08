@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: ""
 relativeURLs: "True"
 languageCode: "en-us"
 title: 'HumLUG - Humboldt Linux Users Group'
