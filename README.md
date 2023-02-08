@@ -1,2 +1,2 @@
 # humlug.github.io
-Website for the Humboldt Linux Users group
+New website for the Humboldt Linux Users group
