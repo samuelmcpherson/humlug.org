@@ -23,4 +23,4 @@ menu:
 
 params:
   description: "Official website of the Humboldt Linux Users Group (HumLUG)."
-  footer: "All logos and trademarks in this site are property of their respective owner. Anything else not covered by it's own copyright is &copy; 2022 -- {Year} humlug.org -- [Github repo](https://github.com/samuelmcpherson/humlug.github.io) -- Contact the site [admin](mailto:admin@humlug.org)"
+  footer: "All logos and trademarks in this site are property of their respective owner. Anything else not covered by it's own copyright is &copy; 2022 -- {Year} humlug.org -- [Github repo](https://github.com/samuelmcpherson/humlug.github.io) -- Contact the site [admin](mailto:contact@samuelmcpherson.net)"
