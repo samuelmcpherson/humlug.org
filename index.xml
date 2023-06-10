@@ -21,8 +21,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/announcements/</guid>
-      <description>Announcements: The return of Thursday evening presentation meetings! Second meeting: 6:00PM May 18, 2023 at the Babe&amp;rsquo;s Pizza conference room This month&amp;rsquo;s HUMLUG presentation by Patrick will feature Truenas scale - a system with virtualization, docker and a robust filesystem. With examples of using cloudflare and guacamole for remote access.
-Official HumLUG community Matrix server! Coming sometime in 2023 </description>
+      <description>Announcements: The return of Thursday evening presentation meetings! There will be no presentation meeting for the month of June. We apologize for the inconvenience.
+Fourth meeting: 6:00PM July 20, 2023 at the Babe&amp;rsquo;s Pizza conference room Next month&amp;rsquo;s HumLUG presentation by Sam will cover the ZFS file system, with a comprehensive look at the features it provides and some useful tips for tuning the filesystem for different workloads.
+Official HumLUG community Matrix server!</description>
     </item>
     
     <item>
@@ -33,7 +34,8 @@ Official HumLUG community Matrix server! Coming sometime in 2023 </description>
       <guid>/events/</guid>
       <description>HumLUG Events: Lunch meetings: HumLug meets for lunch and fun discussions about technology every friday at 11:30pm at Babe&amp;rsquo;s Pizza in Eureka.
 Evening meetings: We have monthly presentation focussed meetings on the third Thursday at 6:00PM at Babe&amp;rsquo;s Pizza in Eureka.
-Third meeting: 6:00PM April 20, 2023 at the Babe&amp;rsquo;s Pizza conference room Presentation by Patrick covering Truenas scale - a system with virtualization, docker and a robust filesystem. With examples of using cloudflare and guacamole for remote access.</description>
+There will be no presentation meeting for the month of June. We apologize for the inconvenience.
+Fourth meeting: 6:00PM July 20, 2023 at the Babe&amp;rsquo;s Pizza conference room Next month&amp;rsquo;s HumLUG presentation by Sam will cover the ZFS file system, with a comprehensive look at the features it provides and some useful tips for tuning the filesystem for different workloads.</description>
     </item>
     
     <item>
