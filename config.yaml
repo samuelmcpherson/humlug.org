@@ -13,7 +13,7 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-    - name: Annoucements
+    - name: Announcements
       url: "announcements/"
       weight: 3
     - name: Events
